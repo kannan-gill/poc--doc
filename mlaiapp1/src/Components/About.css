@@ -1,0 +1,38 @@
+.header{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px ;
+    width: 50%;
+    text-align: center;
+    margin:auto;
+    padding-top: 20px;
+    color: #00c4cc;
+}
+
+.line{
+    padding-top: 10px;
+    width: 2%;
+    border-bottom: #6c63ff;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    margin:auto;
+}
+
+.content{
+    padding-top: 50px;
+    /* padding-bottom: 180px; */
+    width: 40%;
+    text-align: center;
+    margin:auto;
+    font-size: 17px;
+    color: rgb(58, 57, 57);
+}
+
+.content2{
+    padding-top: 20px;
+    padding-bottom: 60px;
+    width: 40%;
+    margin:auto;
+    font-size: 20px;
+    text-align: center;
+    color: rgb(58, 57, 57);
+}
